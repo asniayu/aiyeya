@@ -1,8 +1,11 @@
 import streamlit as st
 
-st.title("Latihan membuat website")
+st.title("hello bubies")
 st.write(
-    "Latihan membuat website melalui Github dan Streamlit dengan menggunakan bahasa Pyhton"
+    "Afghan berubah jadi harimau malaya"
 )
 
-st.image("view/young.png") 
+st.image(views/1746503376035.jpg", widyh=200) 
+st.write("\n")  
+st.subheader(yaya)
+st.write("miss p5")   
